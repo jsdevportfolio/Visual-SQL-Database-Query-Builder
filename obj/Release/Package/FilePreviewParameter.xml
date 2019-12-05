@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="sourcebuffetsoftware.com" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\JS\\Documents\\Visual\ Studio\ 2013\\Projects\\NSLookup\\NSLookup\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\JS\\Documents\\Visual\ Studio\ 2013\\Projects\\NSLookup\\NSLookup\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+</parameters>

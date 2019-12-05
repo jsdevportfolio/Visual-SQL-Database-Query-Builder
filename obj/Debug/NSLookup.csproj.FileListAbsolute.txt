@@ -1,0 +1,15 @@
+c:\users\js\documents\visual studio 2013\Projects\NSLookup\NSLookup\bin\NSLookup.dll
+c:\users\js\documents\visual studio 2013\Projects\NSLookup\NSLookup\bin\NSLookup.pdb
+c:\users\js\documents\visual studio 2013\Projects\NSLookup\NSLookup\obj\Debug\NSLookup.dll
+c:\users\js\documents\visual studio 2013\Projects\NSLookup\NSLookup\obj\Debug\NSLookup.pdb
+C:\Users\JS\Documents\Visual Studio 2013\Projects\NSLookup\NSLookup\bin\Microsoft.Azure.AppService.ApiApps.Service.dll
+C:\Users\JS\Documents\Visual Studio 2013\Projects\NSLookup\NSLookup\bin\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\JS\Documents\Visual Studio 2013\Projects\NSLookup\NSLookup\bin\Newtonsoft.Json.dll
+C:\Users\JS\Documents\Visual Studio 2013\Projects\NSLookup\NSLookup\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\JS\Documents\Visual Studio 2013\Projects\NSLookup\NSLookup\bin\System.Net.Http.Formatting.dll
+C:\Users\JS\Documents\Visual Studio 2013\Projects\NSLookup\NSLookup\bin\Newtonsoft.Json.xml
+C:\Users\JS\Documents\Visual Studio 2013\Projects\NSLookup\NSLookup\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\JS\Documents\Visual Studio 2013\Projects\NSLookup\NSLookup\bin\System.Net.Http.Formatting.xml
+C:\Users\JS\Documents\Visual Studio 2013\Projects\NSLookup\NSLookup\obj\Debug\NSLookup.csproj.ResolveComReference.cache
+C:\Users\JS\Documents\Visual Studio 2013\Projects\NSLookup\NSLookup\obj\Debug\NSLookup.csproj.CoreCompileInputs.cache
+C:\Users\JS\Documents\Visual Studio 2013\Projects\NSLookup\NSLookup\obj\Debug\NSLookup.csproj.CopyComplete
